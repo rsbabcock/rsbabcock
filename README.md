@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Health Tech
-🌱 I’m currently learning _everything_
-⚡ Fun fact: I once climbed to the base of ⛰️ Mt Doom ⛰️ i.e Mt Ngauruhoe
-💖 Learn more about me on https://linkedin.com/in/rachael-babcock/
+- 🔭 I’m currently working on Health Tech
+- 🌱 I’m currently learning _everything_
+- ⚡ Fun fact: I once climbed to the base of ⛰️ Mt Doom ⛰️ i.e Mt Ngauruhoe
+- 💖 Learn more about me on https://linkedin.com/in/rachael-babcock/
 
   
 <!--
