@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🐳 Hello! I'm Rachael Babcock
+______________________________________________________________________________________
+A passionate software engineer! 
 
 - 🔭 I’m currently working on Health Tech
 - 🌱 I’m currently learning _everything_
