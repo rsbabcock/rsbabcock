@@ -1,4 +1,4 @@
-### 🐳 Hello! I'm Rachael Babcock
+### 💖 Hello! I'm Rachael Babcock
 ______________________________________________________________________________________
 A passionate software engineer! 
 
