@@ -1,7 +1,5 @@
 ### 💖 Hello! I'm Rachael Babcock
 ______________________________________________________________________________________
-A passionate software engineer! 
-
 - 🔭 I’m currently working on Health Tech
 - 🌱 I’m currently learning _everything_
 - ⚡ Fun fact: I once climbed to the base of ⛰️ Mt Doom ⛰️ i.e Mt Ngauruhoe
